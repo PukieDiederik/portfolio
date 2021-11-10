@@ -1,0 +1,80 @@
+/* COLORS:
+Dark background color: #121212
+
+secondary color: #05dbfc;
+Primary text: #ddd
+Secondary text: #bbb
+link: #888;
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    color: #ddd;
+    background-color:#121212;
+    font-family: roboto;
+}
+
+p, a{
+    font-weight: 200;
+    font-size: small;
+}
+/* sections */
+#projects h1 {
+    padding-left: 10px;
+}
+
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    flex: 1 0 200px;
+}
+
+#footer{
+    padding-top: 150px;
+}
+
+/* Cards */
+.card{
+    margin: 10px;
+    box-shadow: 0 0 3px 2px #0009;
+    background-color: #121212;
+    border-radius: 10px;
+    position: relative;
+    text-align: left;
+    flex: 1 1 200px;
+    max-width: 300px;
+}
+.card .title {
+    color: #ddd;
+    margin: 0;
+}
+
+.card .content{
+    padding: 10px;
+    color: #bbb;
+}
+
+
+.card .button-link {
+    position: absolute;
+    bottom: 5px;
+    right:10px;
+    margin-top: 10px;
+    display:inline-block;
+    text-align: right;
+    color: rgb(0, 206, 206);
+    width: 100%;
+}
+
+/* Utils */
+.hOverlay{
+    pointer-events: none;
+    border-radius: 10px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
