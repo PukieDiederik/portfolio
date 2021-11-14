@@ -9,7 +9,7 @@ link: #888;
 
 body{
     margin: 0;
-    padding: 0;
+    padding: 10px;
     color: #ddd;
     background-color:#121212;
     font-family: roboto;
@@ -19,9 +19,17 @@ p, a{
     font-weight: 200;
     font-size: small;
 }
+
+a {
+    color: rgb(0, 206, 206);
+}
 /* sections */
-#projects h1 {
-    padding-left: 10px;
+
+#header {
+    padding: 20px;
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 200px;
 }
 
 .projects{
@@ -34,6 +42,15 @@ p, a{
 
 #footer{
     padding-top: 150px;
+    text-align: center;
+}
+
+.education{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    flex: 1 0 200px;
 }
 
 /* Cards */
@@ -45,7 +62,7 @@ p, a{
     position: relative;
     text-align: left;
     flex: 1 1 200px;
-    max-width: 300px;
+    /* max-width: 300px; */
 }
 .card .title {
     color: #ddd;
@@ -65,7 +82,6 @@ p, a{
     margin-top: 10px;
     display:inline-block;
     text-align: right;
-    color: rgb(0, 206, 206);
     width: 100%;
 }
 
