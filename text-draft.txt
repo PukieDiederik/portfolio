@@ -1,6 +1,6 @@
 About
 
-Hi, my name is Diederik. I'm 17 years old and currently live in the netherlands. I've dropped out of highschool because of mental problems.
+Hi, my name is Diederik. I'm 17 years old and currently live in the Netherlands and sometimes in Portugal.
 I've been learning about programming by myself and I feel like i've learned a lot so far. When there are things that I haven't learned yet I can make them my own quickly.
 
 
@@ -16,10 +16,10 @@ Education
     This is my prefered framework when working with web apps. I have used this in the past for a discord bot but also to create my own websites.
 
   - Python
-    This is my preferred language when something needs to be done quickly or dirty. I can write scripts using this to automate simple tasks.
+    This is my preferred language when something needs to be done quickly or dirty. I can write scripts using this language to automate simple tasks.
 
-  - Opengl
-    Even though I haven't used it much I do understand the fundamentals of graphics programming.
+  - OpenGL
+    Even though I haven't used it much I do understand the fundamentals of graphics programming. I am currently still learning it using LearnOpenGL.com (INSERT LINK HERE)
 
   - Datastructures
     I've studied datastructures using this video(INSERT LINK HERE). It shows the fundamentals of datastructures and how they can be applied.
@@ -28,6 +28,8 @@ Education
     I have experience with unity and have used this (together with other people) to do game-jams.
 
   - Git
+    I have used git with all my projects and I know how to use it. I understand how branching/merging works and my projects are on github.
+
 
 Projects
   - Discord disconnect bot
