@@ -53,6 +53,8 @@ a {
     flex: 1 0 200px;
 }
 
+#footer p {margin: 2px;}
+
 /* Cards */
 .card{
     margin: 10px;
