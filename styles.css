@@ -94,9 +94,3 @@ a {
     height: 100%;
     background-color: white;
 }
-
-@media screen and (max-device-width:360px){
-    body{
-        background-color: blue;
-    }
-}
