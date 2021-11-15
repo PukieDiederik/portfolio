@@ -45,4 +45,4 @@ Projects
     This is a sudoku solver written in Python. It allows you to input a sudoku as a 81 character long number and it will solve it for you.
 
   - Weather app
-    This is a weather app written in python with PyQT5. I used this project to learn how to create a frontend using python.4
+    This is a weather app written in python with PyQT5. I used this project to learn how to create a frontend using python.
